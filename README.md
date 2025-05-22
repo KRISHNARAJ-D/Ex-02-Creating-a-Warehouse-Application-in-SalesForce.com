@@ -1,7 +1,7 @@
 # Ex-02-Creating-a-Warehouse-Application-in-SalesForce.com
 
-## NAME: SUDHAKARAN S 
-## REGNO: 212222220051
+## NAME: KRISHNARAJ D
+## REGNO: 212222230070
 
 ## AIM:
 To create a warehouse application in salesforce.com
